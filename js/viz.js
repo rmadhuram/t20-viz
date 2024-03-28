@@ -14,7 +14,7 @@ function getRuns(overs) {
 
 function draw() {
   let colors = ['#fff', '#eee', '#aaa', '#999', 'red', 'orange', 'green', 'blue']
-  $.get('../scripts/season-2023.json', function(data, status){
+  $.get('scripts/season-2023.json', function(data, status){
 
     for (let match = 0; match < data.length; match++) {
       for (let innings = 0; innings < data[match].innings.length; innings++) {
