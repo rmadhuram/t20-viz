@@ -1,0 +1,53 @@
+body, .container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Roboto Slab", serif;
+}
+
+.container {
+  gap: 20px;
+}
+
+h1 {
+  margin: 0px 20px;
+}
+
+.stats-container {
+  width: 100%;
+  display: flex;
+  background: #f8f8f8;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.stats-innings-1, .stats-innings-2 {
+  display: flex;
+  justify-content: center;
+  width: 660px;
+}
+
+.stats {
+  display: flex;
+  gap: 60px;
+}
+
+.stats .kpi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stats .kpi h3 {
+  color: rgb(29, 122, 113);
+  font-size: 24px;
+}
+
+.stats .kpi h4 {
+  color: #999;
+  font-size: 14px;
+} 
+
+.stats-innings-2 .kpi h3 {
+  color: rgb(162, 60, 60);
+}

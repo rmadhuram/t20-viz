@@ -2,13 +2,55 @@
 <html>
   <head>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
     <script src="js/viz.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/viz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div id="container">
-      <svg width="2400" height="1000">
+    <div class="container">
+      <h1>🏏 IPL Season 2023</h1>
+      <p>The following graph visualizes the entire IPL 2023 season!</p>
+      <div class="stats-container">
+        <div class="stats-innings-1">
+          <div class="stats">
+            <div class="kpi runs">
+              <h3>21,827</h3>
+              <h4>RUNS</h4>
+            </div>
+            <div class="kpi wickets">
+              <h3>487</h3>
+              <h4>WICKETS</h4>
+            </div>
+            <div class="kpi rr">
+              <h3>7.98</h3>
+              <h4>RUN RATE</h4>
+            </div>
+          </div>
+        </div>
+        <div class="stats-innings-2">
+          <div class="stats">
+            <div class="kpi runs">
+              <h3>21,827</h3>
+              <h4>RUNS</h4>
+            </div>
+            <div class="kpi wickets">
+              <h3>487</h3>
+              <h4>WICKETS</h4>
+            </div>
+            <div class="kpi rr">
+              <h3>7.98</h3>
+              <h4>RUN RATE</h4>
+            </div>
+          </div>
+        </div>
+      </div>
 
+      <svg width="1400" height="600">
       </svg>
     </div>
   </body>
