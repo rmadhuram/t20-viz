@@ -102,6 +102,7 @@ teams involved in the match.
 2023-04-01 - club - IPL - male - 1359476 - Punjab Kings vs Kolkata Knight Riders
 2023-04-01 - club - IPL - male - 1359477 - Lucknow Super Giants vs Delhi Capitals
 2023-03-31 - club - IPL - male - 1359475 - Chennai Super Kings vs Gujarat Titans
+
 2022-05-29 - club - IPL - male - 1312200 - Rajasthan Royals vs Gujarat Titans
 2022-05-27 - club - IPL - male - 1312199 - Royal Challengers Bangalore vs Rajasthan Royals
 2022-05-25 - club - IPL - male - 1312198 - Royal Challengers Bangalore vs Lucknow Super Giants
@@ -176,6 +177,7 @@ teams involved in the match.
 2022-03-27 - club - IPL - male - 1304048 - Mumbai Indians vs Delhi Capitals
 2022-03-27 - club - IPL - male - 1304049 - Royal Challengers Bangalore vs Punjab Kings
 2022-03-26 - club - IPL - male - 1304047 - Chennai Super Kings vs Kolkata Knight Riders
+
 2021-10-15 - club - IPL - male - 1254117 - Chennai Super Kings vs Kolkata Knight Riders
 2021-10-13 - club - IPL - male - 1254116 - Delhi Capitals vs Kolkata Knight Riders
 2021-10-11 - club - IPL - male - 1254115 - Royal Challengers Bangalore vs Kolkata Knight Riders
@@ -236,6 +238,7 @@ teams involved in the match.
 2021-04-11 - club - IPL - male - 1254060 - Kolkata Knight Riders vs Sunrisers Hyderabad
 2021-04-10 - club - IPL - male - 1254059 - Chennai Super Kings vs Delhi Capitals
 2021-04-09 - club - IPL - male - 1254058 - Mumbai Indians vs Royal Challengers Bangalore
+
 2020-11-10 - club - IPL - male - 1237181 - Delhi Capitals vs Mumbai Indians
 2020-11-08 - club - IPL - male - 1237180 - Delhi Capitals vs Sunrisers Hyderabad
 2020-11-06 - club - IPL - male - 1237178 - Royal Challengers Bangalore vs Sunrisers Hyderabad
@@ -296,6 +299,7 @@ teams involved in the match.
 2020-09-21 - club - IPL - male - 1216534 - Royal Challengers Bangalore vs Sunrisers Hyderabad
 2020-09-20 - club - IPL - male - 1216493 - Delhi Capitals vs Kings XI Punjab
 2020-09-19 - club - IPL - male - 1216492 - Mumbai Indians vs Chennai Super Kings
+
 2019-05-12 - club - IPL - male - 1181768 - Mumbai Indians vs Chennai Super Kings
 2019-05-10 - club - IPL - male - 1181767 - Chennai Super Kings vs Delhi Capitals
 2019-05-08 - club - IPL - male - 1181766 - Delhi Capitals vs Sunrisers Hyderabad
@@ -356,6 +360,7 @@ teams involved in the match.
 2019-03-24 - club - IPL - male - 1175357 - Kolkata Knight Riders vs Sunrisers Hyderabad
 2019-03-24 - club - IPL - male - 1175358 - Mumbai Indians vs Delhi Capitals
 2019-03-23 - club - IPL - male - 1175356 - Chennai Super Kings vs Royal Challengers Bangalore
+
 2018-05-27 - club - IPL - male - 1136620 - Chennai Super Kings vs Sunrisers Hyderabad
 2018-05-25 - club - IPL - male - 1136619 - Kolkata Knight Riders vs Sunrisers Hyderabad
 2018-05-23 - club - IPL - male - 1136618 - Kolkata Knight Riders vs Rajasthan Royals
@@ -416,6 +421,7 @@ teams involved in the match.
 2018-04-08 - club - IPL - male - 1136562 - Kings XI Punjab vs Delhi Daredevils
 2018-04-08 - club - IPL - male - 1136563 - Kolkata Knight Riders vs Royal Challengers Bangalore
 2018-04-07 - club - IPL - male - 1136561 - Mumbai Indians vs Chennai Super Kings
+
 2017-05-21 - club - IPL - male - 1082650 - Mumbai Indians vs Rising Pune Supergiant
 2017-05-19 - club - IPL - male - 1082649 - Mumbai Indians vs Kolkata Knight Riders
 2017-05-17 - club - IPL - male - 1082648 - Sunrisers Hyderabad vs Kolkata Knight Riders
@@ -475,6 +481,7 @@ teams involved in the match.
 2017-04-07 - club - IPL - male - 1082593 - Gujarat Lions vs Kolkata Knight Riders
 2017-04-06 - club - IPL - male - 1082592 - Rising Pune Supergiant vs Mumbai Indians
 2017-04-05 - club - IPL - male - 1082591 - Sunrisers Hyderabad vs Royal Challengers Bangalore
+
 2016-05-29 - club - IPL - male - 981019 - Royal Challengers Bangalore vs Sunrisers Hyderabad
 2016-05-27 - club - IPL - male - 981017 - Gujarat Lions vs Sunrisers Hyderabad
 2016-05-25 - club - IPL - male - 981015 - Sunrisers Hyderabad vs Kolkata Knight Riders
@@ -535,6 +542,7 @@ teams involved in the match.
 2016-04-11 - club - IPL - male - 980905 - Kings XI Punjab vs Gujarat Lions
 2016-04-10 - club - IPL - male - 980903 - Kolkata Knight Riders vs Delhi Daredevils
 2016-04-09 - club - IPL - male - 980901 - Mumbai Indians vs Rising Pune Supergiants
+
 2015-05-24 - club - IPL - male - 829823 - Mumbai Indians vs Chennai Super Kings
 2015-05-22 - club - IPL - male - 829821 - Chennai Super Kings vs Royal Challengers Bangalore
 2015-05-20 - club - IPL - male - 829819 - Royal Challengers Bangalore vs Rajasthan Royals
@@ -594,6 +602,7 @@ teams involved in the match.
 2015-04-10 - club - IPL - male - 829709 - Kings XI Punjab vs Rajasthan Royals
 2015-04-09 - club - IPL - male - 829707 - Chennai Super Kings vs Delhi Daredevils
 2015-04-08 - club - IPL - male - 829705 - Kolkata Knight Riders vs Mumbai Indians
+
 2014-06-01 - club - IPL - male - 734049 - Kolkata Knight Riders vs Kings XI Punjab
 2014-05-30 - club - IPL - male - 734047 - Chennai Super Kings vs Kings XI Punjab
 2014-05-28 - club - IPL - male - 734045 - Chennai Super Kings vs Mumbai Indians
@@ -654,6 +663,7 @@ teams involved in the match.
 2014-04-18 - club - IPL - male - 729285 - Sunrisers Hyderabad vs Rajasthan Royals
 2014-04-17 - club - IPL - male - 729281 - Delhi Daredevils vs Royal Challengers Bangalore
 2014-04-16 - club - IPL - male - 729279 - Mumbai Indians vs Kolkata Knight Riders
+
 2013-05-26 - club - IPL - male - 598073 - Chennai Super Kings vs Mumbai Indians
 2013-05-24 - club - IPL - male - 598072 - Mumbai Indians vs Rajasthan Royals
 2013-05-22 - club - IPL - male - 598071 - Rajasthan Royals vs Sunrisers Hyderabad
@@ -730,6 +740,7 @@ teams involved in the match.
 2013-04-05 - club - IPL - male - 598000 - Sunrisers Hyderabad vs Pune Warriors
 2013-04-04 - club - IPL - male - 597999 - Royal Challengers Bangalore vs Mumbai Indians
 2013-04-03 - club - IPL - male - 597998 - Kolkata Knight Riders vs Delhi Daredevils
+
 2012-05-27 - club - IPL - male - 548381 - Kolkata Knight Riders vs Chennai Super Kings
 2012-05-25 - club - IPL - male - 548380 - Delhi Daredevils vs Chennai Super Kings
 2012-05-23 - club - IPL - male - 548379 - Chennai Super Kings vs Mumbai Indians
@@ -804,6 +815,7 @@ teams involved in the match.
 2012-04-06 - club - IPL - male - 548309 - Rajasthan Royals vs Kings XI Punjab
 2012-04-05 - club - IPL - male - 548307 - Kolkata Knight Riders vs Delhi Daredevils
 2012-04-04 - club - IPL - male - 548306 - Chennai Super Kings vs Mumbai Indians
+
 2011-05-28 - club - IPL - male - 501271 - Chennai Super Kings vs Royal Challengers Bangalore
 2011-05-27 - club - IPL - male - 501270 - Royal Challengers Bangalore vs Mumbai Indians
 2011-05-25 - club - IPL - male - 501269 - Mumbai Indians vs Kolkata Knight Riders
@@ -877,6 +889,7 @@ teams involved in the match.
 2011-04-09 - club - IPL - male - 501199 - Deccan Chargers vs Rajasthan Royals
 2011-04-09 - club - IPL - male - 501200 - Kochi Tuskers Kerala vs Royal Challengers Bangalore
 2011-04-08 - club - IPL - male - 501198 - Chennai Super Kings vs Kolkata Knight Riders
+
 2010-04-25 - club - IPL - male - 419165 - Chennai Super Kings vs Mumbai Indians
 2010-04-24 - club - IPL - male - 419164 - Royal Challengers Bangalore vs Deccan Chargers
 2010-04-22 - club - IPL - male - 419163 - Chennai Super Kings vs Deccan Chargers
@@ -937,6 +950,7 @@ teams involved in the match.
 2010-03-13 - club - IPL - male - 419107 - Mumbai Indians vs Rajasthan Royals
 2010-03-13 - club - IPL - male - 419108 - Kings XI Punjab vs Delhi Daredevils
 2010-03-12 - club - IPL - male - 419106 - Deccan Chargers vs Kolkata Knight Riders
+
 2009-05-24 - club - IPL - male - 392239 - Royal Challengers Bangalore vs Deccan Chargers
 2009-05-23 - club - IPL - male - 392238 - Royal Challengers Bangalore vs Chennai Super Kings
 2009-05-22 - club - IPL - male - 392237 - Delhi Daredevils vs Deccan Chargers
@@ -994,6 +1008,7 @@ teams involved in the match.
 2009-04-19 - club - IPL - male - 392184 - Deccan Chargers vs Kolkata Knight Riders
 2009-04-18 - club - IPL - male - 392181 - Chennai Super Kings vs Mumbai Indians
 2009-04-18 - club - IPL - male - 392182 - Royal Challengers Bangalore vs Rajasthan Royals
+
 2008-06-01 - club - IPL - male - 336040 - Chennai Super Kings vs Rajasthan Royals
 2008-05-31 - club - IPL - male - 336039 - Chennai Super Kings vs Kings XI Punjab
 2008-05-30 - club - IPL - male - 336038 - Delhi Daredevils vs Rajasthan Royals
