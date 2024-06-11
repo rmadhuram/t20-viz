@@ -16,7 +16,9 @@ let seasonData = []
 //let patterns = ['2011', ['../data/501*']]
 //let patterns = ['2010', ['../data/419*']]
 //let patterns = ['2009', ['../data/392*']]
-let patterns = ['2008', ['../data/335*', '../data/336*']]
+//let patterns = ['2008', ['../data/335*', '../data/336*']]
+
+let patterns = ['2024', ['../data/142*']]
 
 let year = patterns[0]
 
